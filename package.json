@@ -1,0 +1,21 @@
+{
+    "name": "insomnia-plugin-dracula-theme",
+    "version": "1.0.0",
+    "author": {
+        "name": "Trevor Smiley",
+        "email": "trevor.smiley@gmail.com"
+    },
+    "description": "Dracula theme for Insomnia",
+    "license": "MIT",
+    "main": "plugin.js",
+    "insomnia": {
+        "name": "dracula-theme",
+        "description": "Dracula Theme"
+    },
+    "keywords": [
+        "dracula",
+        "theme",
+        "insomnia",
+        "insomnia-plugin"
+    ]
+}
